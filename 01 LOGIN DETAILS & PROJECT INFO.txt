@@ -1,11 +1,4 @@
-**Log on to codeastro.com for more projects!***
-
-**Database Name: ecom_store**
-
-**Developed by Yasser Dalouzi**
-
-**Recommended PHP Version 5.6 and Newer**
-
+**Create by: Arnav Kumar and Nimish Prakash**
 
 **Admin Panel: /admin_area **
 
